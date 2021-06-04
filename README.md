@@ -19,6 +19,9 @@
   <img src="https://img.shields.io/badge/tensorflow-465571?style=flat-square&logo=tensorflow&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/pytorch-955571?style=flat-square&logo=pytorch&logoColor=white"/></a>&nbsp 
   <br>
+  <img src="https://img.shields.io/badge/numpy-513451?style=flat-square&logo=numpy&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/pandas-365871?style=flat-square&logo=pandas&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/matplotlib-134571?style=flat-square&logo=matplotlib&logoColor=white"/></a>&nbsp 
   
   
 </p>
