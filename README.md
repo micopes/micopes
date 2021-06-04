@@ -15,6 +15,7 @@
   <img src="https://img.shields.io/badge/Flask-092E20?style=flat-square&logo=Flask&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/docker-724544?style=flat-square&logo=docker&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/scikitlearn-5114571?style=flat-square&logo=scikit-learn&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/tensorflow-465571?style=flat-square&logo=tensorflow&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/pytorch-955571?style=flat-square&logo=pytorch&logoColor=white"/></a>&nbsp 
